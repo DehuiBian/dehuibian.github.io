@@ -86,5 +86,5 @@ redirect_from:
 ## Self Evaluation
 
 * **Fast learner** – Self-taught and proficient in VBA, Matlab, SPSS, ArcGIS, MIDACO, etc.
-* **Knowledge sharing** – Independently recorded BP neural network course videos posted on Bilibili (nearly 100,000 views)
+* **Knowledge sharing** – Independently recorded BP neural network course videos posted on [Bilibili](https://space.bilibili.com/440151966?spm_id_from=333.1007.0.0) (nearly 100,000 views)
 * **Team player** – Recognized as Outstanding Contribution Award for teamwork
