@@ -15,10 +15,10 @@ I am currently working at **Jilin Province Hydraulic Research Institute**. The w
 
 I am also an **Editorial Board Member** of:
 
-1. [*Sustainable Water Resources Management*](https://link.springer.com/journal/40899) (IF: 2.1) | Springer
-2. [*Water Practice & Technology*](https://iwaponline.com/wpt) (IF: 1.8) | IWA Publishing
-3. [*Global Environmental Change Advances*](https://www.sciencedirect.com/journal/global-environmental-change-advances) (CiteScore: 1.9) | Elsevier
-4. [*Discover Water*](https://link.springer.com/journal/43832) | Springer
+- *Sustainable Water Resources Management* (IF: 2.1) — [Springer](https://link.springer.com/journal/40899)
+- *Water Practice & Technology* (IF: 1.8) — [IWA Publishing](https://iwaponline.com/wpt)
+- *Global Environmental Change Advances* (CiteScore: 1.9) — [Elsevier](https://www.sciencedirect.com/journal/global-environmental-change-advances)
+- *Discover Water* — [Springer](https://link.springer.com/journal/43832)
 
 Please submit your manuscripts to these scientific journals if they align with your research field.
 
