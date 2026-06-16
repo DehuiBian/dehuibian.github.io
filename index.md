@@ -9,9 +9,9 @@ Hi there! My name is **Dehui Bian**. Dehui is my given name, Bian is my family n
 
 My research interests focus on the integration of **water resources management**, **hydrology**, **flood risk analysis**, **wetland ecosystems**, and **hydrological modelling** to address water-related challenges.
 
-I graduated from the School of Environment, Beijing Normal University (BNU) in October 2023 with a Ph.D. degree majoring in Environmental Science. My research topic was about **water resource spatial equilibrium**. The topic of my Ph.D. thesis is *"Measurements and Regulation Strategies of China's Urban Water Resource Spatial Equilibrium under the Background of High-Quality Development"*. You may find it at [Figshare](https://figshare.com/s/ae82d63fbe074280dfee).
+I graduated from the School of Environment, [Beijing Normal University (BNU)](https://www.bnu.edu.cn) in October 2023 with a Ph.D. degree majoring in Environmental Science. My research topic was about **water resource spatial equilibrium**. The topic of my Ph.D. thesis is *"Measurements and Regulation Strategies of China's Urban Water Resource Spatial Equilibrium under the Background of High-Quality Development"*. You may find it at [Figshare](https://figshare.com/s/ae82d63fbe074280dfee).
 
-I am currently working at **Jilin Province Hydraulic Research Institute**. The working environment is good, and my colleagues are also very kind and friendly to me. In my spare time, I enjoy getting close to nature, and I also like doing pixel art creation.
+I am currently working at **Jilin Province Hydraulic Research Institute** **[吉林省水利科学研究院]**. The working environment is good, and my colleagues are also very kind and friendly to me. In my spare time, I enjoy getting close to nature, and I also like doing pixel art creation.
 
 I am also an **Editorial Board Member** of:
 
