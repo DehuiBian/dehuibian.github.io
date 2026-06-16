@@ -9,28 +9,27 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<h2>Journal Articles</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<ul>
+  <li>Bian, D., Yang, X., Wu, F., Babuna, P., Luo, Y., Wang, B., Chen, Y., 2022. A three-stage hybrid model investigating regional assessment, pattern analysis and obstruction factor analysis for water resource spatial equilibrium in China. <em>Journal of Cleaner Production</em>. 331, 129940. <a href="https://doi.org/10.1016/j.jclepro.2021.129940">https://doi.org/10.1016/j.jclepro.2021.129940</a></li>
+  <li>Bian, D., Yang, X., Xiang, W., Sun, B., Chen, Y., Babuna, P., Li, M., Yuan, Z., 2022. A new model to evaluate water resource spatial equilibrium based on the game theory coupling weight method and the coupling coordination degree. <em>Journal of Cleaner Production</em>. 366, 132907. <a href="https://doi.org/10.1016/j.jclepro.2022.132907">https://doi.org/10.1016/j.jclepro.2022.132907</a></li>
+  <li>Bian, D., Yang, X., Lu, Y., Chen, H., Sun, B., Wu, F., Chen, Y., Xiang, W., 2023. Analysis of the spatiotemporal patterns and decoupling effects of China’s water resource spatial equilibrium. <em>Environmental Research</em>. 216(3), 114719. <a href="https://doi.org/10.1016/j.envres.2022.114719">https://doi.org/10.1016/j.envres.2022.114719</a></li>
+  <li>Bian, D., Yang, X., Babuna, P., 2022. Dynamic evaluation and regulation of water carrying state using a coupled iterative method. <em>Thermal Science</em>. 26(3), 2551-2560. <a href="https://doi.org/10.2298/TSCI2203551B">https://doi.org/10.2298/TSCI2203551B</a></li>
+  <li>Bian, D.#, Zhang, R.#, Liu, S., Liu, R., Li, G., Qi, Y., 2023. A new method of the coupling coordination degree for quantifying sustainable development from the cosine of the high-dimensional spatial angle perspective. <em>London Journal of Research in Science: Natural and Formal</em>. 23(15), 41-60. <a href="https://journalspress.com/journal-issue/ljrs-volume-23-issue-15/">https://journalspress.com/journal-issue/ljrs-volume-23-issue-15/</a></li>
+  <li>Bian, D., Yang, X., Xiang, W., Luo, Y., Chen, Y., Lu, Y., Babuna, P., 2022. Water efficiency of water-nature-economy-society nexus of 11 provinces in the Yangtze River Economic Belt during the last decade from a multidimensional perspective. <em>Nonlinear Science Letters C</em>. 8(1), 26-35.</li>
+  <li>Lu, Y., Yang, X., Bian, D., Chen, Y., Li, Y., Yuan, Z., Wang, K., 2023. A novel approach for quantifying water resource spatial equilibrium based on the regional evaluation, spatiotemporal heterogeneity and geodetector analysis integrated model. <em>Journal of Cleaner Production</em>. 424, 138791. <a href="https://doi.org/10.1016/j.jclepro.2023.138791">https://doi.org/10.1016/j.jclepro.2023.138791</a></li>
+  <li>Chen, H., Yang, X., Bian, D., Xiang, W., 2024. A novel composite cloud model-based three-stage evaluation for the spatial equilibrium of water resources in China. <em>Journal of Cleaner Production</em>. 456, 142356. <a href="https://doi.org/10.1016/j.jclepro.2024.142356">https://doi.org/10.1016/j.jclepro.2024.142356</a></li>
+  <li>Xiang, W., Yang, X., Bian, D., Pan, Z., Chen, H., Chen, Y., Li, M., 2023. Evaluation and prediction of water-energy-carbon nexus efficiency in China based on a new multiregional input-output perspective. <em>Journal of Environmental Management</em>. 339, 117786. <a href="https://doi.org/10.1016/j.jenvman.2023.117786">https://doi.org/10.1016/j.jenvman.2023.117786</a></li>
+  <li>Chen, Y., Yang, X., Bian, D., Li, J., 2023. Evaluation of water resource’s carrying capacity based on three-element connection number a case study of Beijing-Tianjin-Hebei region. <em>Thermal Science</em>. 27(3), 2019-2027. <a href="https://doi.org/10.2298/TSCI2303019C">https://doi.org/10.2298/TSCI2303019C</a></li>
+  <li>Babuna, P., Yang, X., Bian, D., 2020. Water use inequality and efficiency assessments in the Yangtze River economic delta of China. <em>Water</em>. 12(6), 1709. <a href="https://doi.org/10.3390/w12061709">https://doi.org/10.3390/w12061709</a></li>
+  <li>孙波扬，李发鹏，边得会 (Bian, D.), 2023. 三峡工程水生态空间管控指标体系构建. <em>人民长江</em>. 54(6), 47-53. <a href="https://doi.org/10.16232/j.cnki.1001-4179.2023.06.007">https://doi.org/10.16232/j.cnki.1001-4179.2023.06.007</a></li>
+  <li>Wu, F., Yang, X., Shen, Z., Bian, D., Babuna, P., 2021. Exploring sustainability and decoupling effects of natural capital utilization in China: evidence from a provincial three-dimensional ecological footprint. <em>Journal of Cleaner Production</em>. 295(2), 126486. <a href="https://doi.org/10.1016/j.jclepro.2021.126486">https://doi.org/10.1016/j.jclepro.2021.126486</a></li>
+  <li>Babuna, P., Yang, X., Tulcan, R.X.S., Bian, D., Takase, M., Guba, B.Y., Han, C., Awudi, D.A., Li, M., 2023. Modeling water inequality and water security: The role of water governance. <em>Journal of Environmental Management</em>. 326(2), 116815. <a href="https://doi.org/10.1016/j.jenvman.2022.116815">https://doi.org/10.1016/j.jenvman.2022.116815</a></li>
+  <li>Xiang, W., Yang, X., Babuna, P., Bian, D., 2021. Development, application and challenges of set pair analysis in environmental science from 1989 to 2020: a bibliometric review. <em>Sustainability</em>. 14, 153. <a href="https://doi.org/10.3390/su14010153">https://doi.org/10.3390/su14010153</a></li>
+  <li>Xiang, W., Yang, X., Yi, Z., Sun, B., Bian, D., Li, M., Pan, Z., Jia, Y., 2025. Identification, measurement and spatiotemporal evolution of drought and pluvial events in China based on a three-dimensional perspective. <em>Journal of Hydrology: Regional Studies</em>. 59, 102384. <a href="https://doi.org/10.1016/j.ejrh.2025.102384">https://doi.org/10.1016/j.ejrh.2025.102384</a></li>
+  <li>Babuna, P., Han, C., Li, M., Gyilbag, A., Bian, D., Abra Awudi, D., Tulcan, R.X.S., Yang, S., Yang, X., 2021. The effect of human settlement temperature and humidity on the growth rules of infected and recovered cases of COVID-19. <em>Environmental Research</em>. 197, 111106. <a href="https://doi.org/10.1016/j.envres.2021.111106">https://doi.org/10.1016/j.envres.2021.111106</a></li>
+  <li>Babuna, P., Yang, X., Gyilbag, A., Awudi, D.A., Ngmenbelle, D., Bian, D., 2020. The impact of Covid-19 on the insurance industry. <em>International Journal of Environmental Research and Public Health</em>. 17(16), 5766. <a href="https://doi.org/10.3390/ijerph17165766">https://doi.org/10.3390/ijerph17165766</a></li>
+  <li>Li, M., Yang, X., Di, C., Wang, K., Xiang, W., Bian, D., Babuna, P., 2024. A novel framework for integrative assessment of water balance health in China. <em>Journal of Cleaner Production</em>. 443, 141199. <a href="https://doi.org/10.1016/j.jclepro.2024.141199">https://doi.org/10.1016/j.jclepro.2024.141199</a></li>
+  <li>Jia, Y., Yang, X., Shen, Z., Xiang, W., Chen, H., Li, M., Bian, D., Li, Y., Lu, Y., 2026. A novel integrated model for quantifying agricultural water resource utilization efficiency under carbon neutrality: Regional assessment, spatiotemporal heterogeneity and influencing factors analysis. <em>Agricultural Water Management</em>. 331, 110429. <a href="https://doi.org/10.1016/j.agwat.2026.110429">https://doi.org/10.1016/j.agwat.2026.110429</a></li>
+</ul>
