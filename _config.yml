@@ -41,7 +41,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : “http://www.scopus.com/inward/authorDetails.url?authorID=57217677784&partnerID=MN8TOARS”
   zotero           : # URL
 
 
@@ -76,7 +76,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  bilibili         : "https://space.bilibili.com/440151966?spm_id_from=333.1007.0.0"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
