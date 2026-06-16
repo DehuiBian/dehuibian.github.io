@@ -35,7 +35,7 @@ redirect_from:
 
 ## Skills
 
-* **Languages**: English (CET-6, IELTS 6.0); CHinese (Mandarin)
+* **Languages**: English (CET-6, IELTS 6.0); Chinese (Mandarin)
 * **Programming**: VBA, Java/HTML, Matlab
 * **Software**: ArcGIS, CAD; SPSS, SAS; Simlab, Citespace; Adobe Illustrator, Tableau, Origin; MIDACO
 * **Web Development**: Full-process website deployment and management (server configuration, performance optimization, security strategies including firewall, vulnerability scanning, access control)
