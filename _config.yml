@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "he/his"  
   bio              : "May scientific research help make the world a better place"
   location         : "Changchun, Jilin, China"
-  employer         : "Jilin Province Hydraulic<br>Research Institute"
+  employer         : "Jilin Province Hydraulic<br><span style='display:inline-block; margin-left:60px;'>Research Institute</span>"
   uri              : # URL
   email            : "dehui@mail.bnu.edu.cn" 
 
@@ -41,7 +41,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   researchgate     : # URL
-  scopus           : “http://www.scopus.com/inward/authorDetails.url?authorID=57217677784&partnerID=MN8TOARS”
+  scopus           : “https://www.scopus.com/authid/detail.uri?authorId=57217677784”
   zotero           : # URL
 
 
