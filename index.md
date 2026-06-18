@@ -11,6 +11,8 @@ My research interests focus on the integration of **water resources management**
 
 I graduated from the School of Environment, [Beijing Normal University (BNU)](https://www.bnu.edu.cn) in October 2023 with a Ph.D. degree majoring in Environmental Science. My research topic was about **water resource spatial equilibrium**. The topic of my Ph.D. thesis is *"Measurements and Regulation Strategies of China's Urban Water Resource Spatial Equilibrium under the Background of High-Quality Development"*. You may find it at [Figshare](https://figshare.com/s/ae82d63fbe074280dfee).
 
+I have published some academic papers, you may find them at my [**Scopus Profile**](https://www.scopus.com/authid/detail.uri?authorId=57217677784) and my [**Google Profile**](https://scholar.google.com/citations?user=jgljlHoAAAAJ&hl=en&oi=ao).
+
 I am currently working at **Jilin Province Hydraulic Research Institute** **[吉林省水利科学研究院]**. The working environment is good, and my colleagues are also very kind and friendly to me. In my spare time, I enjoy getting close to nature, and I also like doing pixel art creation.
 
 I am also an **Editorial Board Member** of:
