@@ -5,7 +5,7 @@ permalink: /
 title: "About Me"
 ---
 
-Hi there! My name is **Dehui Bian**. Dehui is my given name, Bian is my family name.
+Hi there! My name is **Dehui Bian**. Dehui is my given name, Bian is my family name. I was born in July 1989.
 
 My research interests focus on the integration of **water resources management**, **hydrology**, **flood risk analysis**, **wetland ecosystems**, and **hydrological modelling** to address water-related challenges.
 
