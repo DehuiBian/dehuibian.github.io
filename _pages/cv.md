@@ -18,9 +18,9 @@ redirect_from:
 
 ## Work Experience
 
-* **Research Scientist (Water Environment Governance)**  
+* **Advanced Researcher (Water Environment Governance)**  
   Jilin Province Hydraulic Research Institute, 2026.02 – Present
-* **Publication Specialist**  
+* **Publishing Specialist**  
   MDPI (Sustainability Journal, IF: 3.3), 2025.02 – 2026.01  
   *Responsibilities: Manuscript handling, special issue management, data analysis for journal development, and other tasks assigned by the Publisher.*
 * **Policy Assistant (Intern)**  
@@ -46,7 +46,7 @@ redirect_from:
   *Sustainable Water Resources Management* (IF: 2.1), *Water Practice & Technology* (IF: 1.8), *Global Environmental Change Advances*, *Discover Water*
 * **Peer Reviewer** for 15 journals (including 10 CAS Q1 journals) such as *The Innovation* (IF: 25.7), *Sustainable Cities and Society* (IF: 12.0), *Environmental Impact Assessment Review* (IF: 11.2), *Journal of Cleaner Production* (IF: 10.0), *Journal of Environmental Management* (IF: 8.5), etc.  
   *Total reviews: 100+*
-* **Member** of China Water Resources Society; China Regional Science Association
+* **Member of**: China Water Resources Society; China Regional Science Association
 
 ## Awards & Honors
 
@@ -82,6 +82,7 @@ redirect_from:
 ## Software Copyright
 
 * **Ex-CCD Coupling Coordination Degree Calculation Tool** (Bian, D., Liu, R., Qi, Y., Liu, S., Zhang, R.) – Registration No. 14755153 (2025)
+* *There are still 13 software copyrights under application currently.*
 
 ## Self Evaluation
 
