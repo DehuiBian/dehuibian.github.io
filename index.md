@@ -24,7 +24,7 @@ I am also an **Editorial Board Member** of:
 
 Please submit your manuscripts to these scientific journals if they align with your research field.
 
-I previously worked full-time as a Publishing Specialist for the [*Sustainability*](https://www.mdpi.com/journal/sustainability) journal of [MDPI](https://www.mdpi.com) company. Although I am no longer affiliated with this journal, I must say that its author services are truly outstanding, especially when compared with that provided by other academic publishers. If you have relevant manuscripts, please feel free to submit them to this journal.
+I previously worked full-time as a Publishing Specialist for the [*Sustainability*](https://www.mdpi.com/journal/sustainability) (IF: 4.1) journal of [MDPI](https://www.mdpi.com) company. Although I am no longer affiliated with this journal, I must say that its author services are truly outstanding, especially when compared with that provided by other academic publishers. If you have relevant manuscripts, please feel free to submit them to this journal.
 
 I am a reasonable person, and I am easy-going. If you are interested in my research, outdoor activities, or pixel art, do not hesitate to contact me.
 
