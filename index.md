@@ -13,7 +13,7 @@ I graduated from the School of Environment, [Beijing Normal University (BNU)](ht
 
 I have published some academic papers, you may find them at my [**Scopus Profile**](https://www.scopus.com/authid/detail.uri?authorId=57217677784) or my [**Google Profile**](https://scholar.google.com/citations?user=jgljlHoAAAAJ&hl=en&oi=ao).
 
-I am currently working at **Jilin Province Hydraulic Research Institute** **[吉林省水利科学研究院]**, which belongs to [Jilin Provincial Department of Water Resources](https://slt.jl.gov.cn). The working environment is good, and my colleagues are very kind and friendly to me. In my spare time, I enjoy getting close to nature, and I also like doing [pixel art creation](https://www.bilibili.com/video/BV1yFFFzpEeV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4595e507882d4d13deb3445101e60309).
+I am currently working at **Jilin Province Hydraulic Research Institute** **[吉林省水利科学研究院]**, which belongs to [Jilin Provincial Department of Water Resources](https://slt.jl.gov.cn). The working environment is good, and my colleagues are very kind and friendly to me. In my spare time, I enjoy developing automated softwares, getting close to nature, and I also like doing [pixel art creation](https://www.bilibili.com/video/BV1yFFFzpEeV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4595e507882d4d13deb3445101e60309).
 
 I am also an **Editorial Board Member** of:
 
@@ -23,6 +23,8 @@ I am also an **Editorial Board Member** of:
 - [*Discover Water*](https://link.springer.com/journal/43832) — Springer
 
 Please submit your manuscripts to these scientific journals if they align with your research field.
+
+I previously worked full-time as a Publishing Specialist for the [Sustainability](https://www.mdpi.com/journal/sustainability) journal of [MDPI](https://www.mdpi.com) company. Although I am no longer affiliated with this journal, I must say that its author services are truly outstanding, especially when compared with that provided by other academic publishers. If you have relevant manuscripts, please feel free to submit them to this journal.
 
 I am a reasonable person, and I am easy-going. If you are interested in my research, outdoor activities, or pixel art, do not hesitate to contact me.
 
