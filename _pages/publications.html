@@ -14,14 +14,35 @@ author_profile: true
 <h2>Publications per Year</h2>
 
 <style>
+.pub-chart-wrap {
+  display: flex;
+  align-items: stretch;
+  margin: 1.5em 0 2em;
+}
+.pub-yaxis {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 2.2em;
+  padding-bottom: 1.6em;
+}
+.pub-ylabel {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  font-size: 0.85em;
+  color: #333;
+  white-space: nowrap;
+}
 .pub-chart {
+  flex: 1;
   display: flex;
   align-items: flex-end;
   justify-content: space-around;
   height: 220px;
-  margin: 1.5em 0 2em;
   padding: 0 0.5em;
-  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #999;
+  border-bottom: 1px solid #999;
 }
 .pub-bar {
   display: flex;
@@ -46,17 +67,31 @@ author_profile: true
   margin-top: 6px;
   color: #555;
 }
+.pub-xlabel {
+  text-align: center;
+  font-size: 0.85em;
+  color: #333;
+  margin-top: 0.4em;
+}
 </style>
 
-<div class="pub-chart">
-  <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:40%"></div><span class="pub-year">2020</span></div>
-  <div class="pub-bar"><span class="pub-count">3</span><div class="pub-fill" style="height:60%"></div><span class="pub-year">2021</span></div>
-  <div class="pub-bar"><span class="pub-count">5</span><div class="pub-fill" style="height:100%"></div><span class="pub-year">2022</span></div>
-  <div class="pub-bar"><span class="pub-count">5</span><div class="pub-fill" style="height:100%"></div><span class="pub-year">2023</span></div>
-  <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:40%"></div><span class="pub-year">2024</span></div>
-  <div class="pub-bar"><span class="pub-count">1</span><div class="pub-fill" style="height:20%"></div><span class="pub-year">2025</span></div>
-  <div class="pub-bar"><span class="pub-count">3</span><div class="pub-fill" style="height:60%"></div><span class="pub-year">2026</span></div>
-  <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:40%"></div><span class="pub-year">2027</span></div>
+<div class="pub-chart-wrap">
+  <div class="pub-yaxis">
+    <span class="pub-ylabel">Number of Publications</span>
+  </div>
+  <div style="flex:1;">
+    <div class="pub-chart">
+      <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:40%"></div><span class="pub-year">2020</span></div>
+      <div class="pub-bar"><span class="pub-count">3</span><div class="pub-fill" style="height:60%"></div><span class="pub-year">2021</span></div>
+      <div class="pub-bar"><span class="pub-count">5</span><div class="pub-fill" style="height:100%"></div><span class="pub-year">2022</span></div>
+      <div class="pub-bar"><span class="pub-count">5</span><div class="pub-fill" style="height:100%"></div><span class="pub-year">2023</span></div>
+      <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:40%"></div><span class="pub-year">2024</span></div>
+      <div class="pub-bar"><span class="pub-count">1</span><div class="pub-fill" style="height:20%"></div><span class="pub-year">2025</span></div>
+      <div class="pub-bar"><span class="pub-count">3</span><div class="pub-fill" style="height:60%"></div><span class="pub-year">2026</span></div>
+      <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:40%"></div><span class="pub-year">2027</span></div>
+    </div>
+    <div class="pub-xlabel">Year</div>
+  </div>
 </div>
 
 <ul>
