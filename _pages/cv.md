@@ -82,7 +82,7 @@ redirect_from:
 ## Software Copyright
 
 * **Ex-CCD Coupling Coordination Degree Calculation Tool** (Bian, D., Liu, R., Qi, Y., Liu, S., Zhang, R.) – Registration No. 14755153 (2025)
-* *There are other 10+ Software Copyrights approved by the China Copyright Protection Center. <a href="https://www.ccopyright.com.cn">https://www.ccopyright.com.cn</a></li>*
+* *There are other 10+ Software Copyrights approved by the China Copyright Protection Center. <a href="https://www.ccopyright.com.cn">https://www.ccopyright.com.cn</a>*
 
 ## Self Evaluation
 
