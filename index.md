@@ -32,3 +32,7 @@ I am a reasonable person, and I am easy-going. If you are interested in my resea
 
 **Email:** [dehui@mail.bnu.edu.cn](mailto:dehui@mail.bnu.edu.cn) / [201931180020@mail.bnu.edu.cn](mailto:201931180020@mail.bnu.edu.cn)  
 **Tel:** +86 135-9648-7890 (Please do not call me unless it is really necessary — because I check my mailbox every day!)
+
+<div style="text-align:center; color:#666; margin:3rem 0 2rem; font-size:0.95rem;">
+  🟢 目前状态：看文献 / 写论文 / 等审稿意见 / 喝咖啡
+</div>
