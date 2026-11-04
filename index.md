@@ -34,5 +34,5 @@ I am a reasonable person, and I am easy-going. If you are interested in my resea
 **Tel:** +86 135-9648-7890 (Please do not call me unless it is really necessary — because I check my mailbox every day!)
 
 <div style="text-align:center; color:#666; margin:3rem 0 2rem; font-size:0.95rem;">
-  🟢 Current status: Reading academic papers / Writing papers / Waiting for reviewers' comments / Applying for funding support
+  🟢 Current status: Reading Papers, Writing Papers, Waiting for Reviewers' Comments, Applying for Fund
 </div>
