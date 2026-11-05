@@ -17,7 +17,7 @@ I am currently working at **Jilin Province Hydraulic Research Institute** **[吉
 
 <div style="text-align:left; margin:1.5rem 0 2rem;">
   <img src="/images/PixelArt1.jpg" alt="Pixel art by Dehui Bian" style="max-width:100%; height:auto; border-radius:6px;">
-  <div style="font-size:0.85rem; color:#777; margin-top:0.5rem;">The Starry Night by Vincent van Gogh is not subject to any copyright dispute and is free to be reused and adapted, it is a public-domain work right now. Vincent van Gogh passed away in 1890, and the copyright protection for his works expired long ago.</div>
+  <div style="font-size:0.85rem; color:#777; margin-top:0.5rem;">**The Starry Night** by Vincent van Gogh is not subject to any copyright dispute and is free to be reused and adapted, it is a public-domain work right now. Vincent van Gogh passed away in 1890, and the copyright protection for his works expired long ago.</div>
 </div>
 
 I am also an **Editorial Board Member** of:
