@@ -11,10 +11,10 @@ redirect_from:
 
 ## Education
 
-* **Ph.D in Environmental Science**, Beijing Normal University (985), 2019.09 – 2023.10  
+* **Ph.D in Environmental Science**, [Beijing Normal University](https://www.bnu.edu.cn) (985), 2019.09 – 2023.10  
   *Doctoral dissertation:* "Measurement and Regulation Strategies of Water Resource Spatial Equilibrium in Chinese Cities under the Background of High-Quality Development" (Available at [Figshare](https://figshare.com/s/ae82d63fbe074280dfee))
-* **M.S. in Environmental Science**, Northeast Normal University (211), 2014.09 – 2017.06
-* **B.S. in Environmental Science**, Changchun University of Science and Technology, 2009.09 – 2013.06
+* **M.S. in Environmental Science**, [Northeast Normal University](https://www.nenu.edu.cn) (211), 2014.09 – 2017.06
+* **B.S. in Environmental Science**, [Changchun University of Science and Technology](https://www.cust.edu.cn), 2009.09 – 2013.06
 
 ## Work Experience
 
