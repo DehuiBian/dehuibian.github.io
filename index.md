@@ -13,7 +13,9 @@ I graduated from the School of Environment, [Beijing Normal University](https://
 
 I have published some academic papers, you may find them at my [**Scopus Profile**](https://www.scopus.com/authid/detail.uri?authorId=57217677784) or my [**Google Profile**](https://scholar.google.com/citations?user=jgljlHoAAAAJ&hl=en&oi=ao).
 
-I am currently working at **Jilin Province Hydraulic Research Institute** **[吉林省水利科学研究院]**, which belongs to [Jilin Provincial Department of Water Resources](https://slt.jl.gov.cn). The working environment is good, and my colleagues are very kind and friendly to me. In my spare time, I enjoy developing automated softwares, getting close to nature, and I also like doing [pixel art creation](https://www.bilibili.com/video/BV1yFFFzpEeV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4595e507882d4d13deb3445101e60309).
+I am currently working at **Jilin Province Hydraulic Research Institute** **[吉林省水利科学研究院]**, which belongs to [Jilin Provincial Department of Water Resources](https://slt.jl.gov.cn). The working environment is good, and my colleagues are very kind and friendly to me.
+
+In my spare time, I enjoy developing automated softwares, getting close to nature, and I also like doing [pixel art creation](https://www.bilibili.com/video/BV1yFFFzpEeV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4595e507882d4d13deb3445101e60309).
 
 <div style="text-align:left; margin:1.5rem 0 2rem;">
   <img src="/images/PixelArt1.jpg" alt="Pixel art by Dehui Bian" style="max-width:100%; height:auto; border-radius:6px;">
