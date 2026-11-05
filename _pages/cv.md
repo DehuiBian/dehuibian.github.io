@@ -89,3 +89,7 @@ redirect_from:
 * **Fast learner** – Self-taught and proficient in VBA, Matlab, SPSS, ArcGIS, MIDACO, etc.
 * **Knowledge sharing** – Independently recorded BP neural network course videos posted on [Bilibili](https://space.bilibili.com/440151966?spm_id_from=333.1007.0.0) (nearly 100,000 views)
 * **Team player** – Recognized as Outstanding Contribution Award for teamwork
+
+<div style="text-align:center; margin:3rem 0 2rem;">
+  <a href="#" style="color:#6b8e23; text-decoration:none; font-size:0.95rem;">↑ Back to Top</a>
+</div>
