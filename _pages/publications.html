@@ -26,7 +26,7 @@ author_profile: true
   align-items: center;
   justify-content: space-between;
   width: 2.2em;
-  padding-bottom: 1.6em;
+  padding-bottom: 1.6em; /* 底部留出年份的位置 */
 }
 .pub-ylabel {
   writing-mode: vertical-rl;
@@ -41,8 +41,7 @@ author_profile: true
   align-items: center;
   justify-content: space-between;
   width: 2.2em;
-  padding-bottom: 1.6em;
-  border-left: 1px solid #999;
+  padding-bottom: 1.6em; /* 与左侧保持完全一致的底部留白，保证对称 */
 }
 .pub-ylabel-right {
   writing-mode: vertical-rl;
@@ -62,6 +61,7 @@ author_profile: true
   height: 220px;
   padding: 0 0.5em;
   border-left: 1px solid #999;
+  border-right: 1px solid #999; /* 新增右侧竖线，保证与左侧高度完全一致 */
   border-bottom: 1px solid #999;
   position: relative;
   box-sizing: border-box;
@@ -108,7 +108,7 @@ author_profile: true
   width: calc(100% - 1em);
   pointer-events: none;
   z-index: 3;
-  overflow: visible;
+  overflow: visible; /* 允许文字溢出 */
 }
 .pub-citation-svg polyline {
   fill: none;
@@ -170,25 +170,36 @@ author_profile: true
       <div class="pub-bar"><span class="pub-count">3</span><div class="pub-fill" style="height:50%"></div><span class="pub-year">2026</span></div>
       <div class="pub-bar"><span class="pub-count">2</span><div class="pub-fill" style="height:33.3%"></div><span class="pub-year">2027</span></div>
 
-      <!-- 折线：每年被引次数（Scopus），右轴 0–140；y = 220 - (c/140)*220 -->
+      <!-- 折线：每年被引次数（Scopus），右轴 0–140；y = 210 - (c/140)*200，整体略微下移并留出顶部空间 -->
       <svg class="pub-citation-svg" viewBox="0 0 800 220" preserveAspectRatio="none">
-        <polyline points="50,216.86 150,194.86 250,135.14 350,108.43 450,55.00 550,9.43 650,73.86 750,213.71" />
-        <circle cx="50" cy="216.86" r="4"/>
-        <circle cx="150" cy="194.86" r="4"/>
-        <circle cx="250" cy="135.14" r="4"/>
-        <circle cx="350" cy="108.43" r="4"/>
-        <circle cx="450" cy="55.00" r="4"/>
-        <circle cx="550" cy="9.43" r="4"/>
-        <circle cx="650" cy="73.86" r="4"/>
-        <circle cx="750" cy="213.71" r="4"/>
-        <text class="pub-citation-label" x="50" y="206">2</text>
-        <text class="pub-citation-label" x="150" y="184">16</text>
-        <text class="pub-citation-label" x="250" y="124">54</text>
-        <text class="pub-citation-label" x="350" y="97">71</text>
-        <text class="pub-citation-label" x="450" y="44">105</text>
-        <text class="pub-citation-label" x="550" y="0">134</text>
-        <text class="pub-citation-label" x="650" y="62">93</text>
-        <text class="pub-citation-label" x="750" y="202">4</text>
+        <polyline points="
+          50,207.14
+          150,187.14
+          250,132.86
+          350,108.57
+          450,60.00
+          550,18.57
+          650,77.14
+          750,204.29
+        " />
+        <circle cx="50" cy="207.14" r="4"/>
+        <circle cx="150" cy="187.14" r="4"/>
+        <circle cx="250" cy="132.86" r="4"/>
+        <circle cx="350" cy="108.57" r="4"/>
+        <circle cx="450" cy="60.00" r="4"/>
+        <circle cx="550" cy="18.57" r="4"/>
+        <circle cx="650" cy="77.14" r="4"/>
+        <circle cx="750" cy="204.29" r="4"/>
+        <!-- 文字标注：2025年（134）因为是最高的点，把文字放在点的下方，避免被顶部截断 -->
+        <text class="pub-citation-label" x="50" y="198">2</text>
+        <text class="pub-citation-label" x="150" y="178">16</text>
+        <text class="pub-citation-label" x="250" y="123">54</text>
+        <text class="pub-citation-label" x="350" y="99">71</text>
+        <text class="pub-citation-label" x="450" y="51">105</text>
+        <!-- 重点修复这里，y="32" 放到点的下方 -->
+        <text class="pub-citation-label" x="550" y="32">134</text>
+        <text class="pub-citation-label" x="650" y="68">93</text>
+        <text class="pub-citation-label" x="750" y="195">4</text>
       </svg>
     </div>
     <div class="pub-xlabel">Year</div>
