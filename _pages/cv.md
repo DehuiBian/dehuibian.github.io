@@ -18,7 +18,7 @@ redirect_from:
 
 ## Work Experience
 
-* **Research Scientist (Water Environment and Water Resources Governance)**
+* **Research Scientist (Water Environment and Water Resources Governance)**  
   Jilin Province Hydraulic Research Institute, 2026.02 – Present
 * **Publishing Specialist**  
   MDPI (Sustainability Journal, IF: 3.3), 2025.02 – 2026.01  
